@@ -1,0 +1,4 @@
+#Sat Apr 20 23:17:37 GMT+07:00 2019
+base.0=E\:\\LAPTRINHDIDONG2\\DoAnNhom\\DoAnNhom\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
