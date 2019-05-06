@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:id="@+id/main">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SingleTouch"
+        android:id="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:textSize="30dp"
+        android:textColor="#ff1900ff" />
+
+
+
+    <com.example.rayleigh.multipletouch.SingleTouchEventView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/view"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="#fffff5fc"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="100dp" />
+
+    <ImageView
+        android:layout_width="52dp"
+        android:layout_height="52dp"
+        android:id="@+id/imageView"
+        android:src="@drawable/but" />
+
+</RelativeLayout>

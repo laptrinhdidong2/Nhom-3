@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <string name="app_name">MinhTanTT7</string>
+    <string name="Set">Đặt Thời Gian : </string>
+    <string name="setting">Setting</string>
+    <string name="time">00:00:00</string>
+    <string name="start">Bắt Đầu</string>
+    <string name="settime">Đặt Thời Gian</string>
+    <string name="OOF">NGỪNG !!!</string>
+</resources>

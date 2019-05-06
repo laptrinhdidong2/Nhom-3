@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="btn">
+
+        <item name="android:background">@color/btn</item>
+        <item name="android:layout_margin">10dp</item>
+
+    </style>
+    <style name="btnAction">
+
+        <item name="android:background">@color/btnAction</item>
+        <item name="android:layout_margin">10dp</item>
+
+    </style>
+    <style name="btnCal">
+
+        <item name="android:background">@color/btnCal</item>
+        <item name="android:layout_margin">10dp</item>
+
+    </style>
+</resources>

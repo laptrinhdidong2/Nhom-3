@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:baselineAligned="false">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+
+            <TextView
+                android:id="@+id/txtTime"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/time"
+                android:textStyle="bold"
+                android:textSize="20pt" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/btnBatDau"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/start"
+                android:background="#04DEF1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:enabled="false"
+
+
+
+
+                />
+                     <Button
+                android:id="@+id/btnSetTime"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/settime"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+
+
+                />
+            <Button
+                android:id="@+id/btnOOF"
+                android:textSize="30pt"
+                android:textStyle="italic"
+                android:background="#F44336"
+                android:textColor="#FCF9F9"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/OOF"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:visibility="gone"
+
+
+
+                />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
