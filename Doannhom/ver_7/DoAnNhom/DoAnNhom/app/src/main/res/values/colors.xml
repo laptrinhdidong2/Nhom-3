@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Phần của Nguyễn Thu Tuyết-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="maudo_cn">#FFFF0004</color>
+    <color name="maulichduong">#ffffff</color>
+    <color name="maulicham">#07f4d4</color>
+    <color name="mau_thu">#030541</color>
+    <color name="color_main">#EE0A0A46</color>
+    <color name="mauso_lich">#030541</color>
+
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteTransparent">#80FFFFFF</color>
+
+    <!--Phần của Phạm Minh Hiển-->
+    <color name="DarkGray">#313136</color>
+    <color name="Black">#000000</color>
+    <color name="White">#ffffff</color>
+    <color name="DarkRed">#ffcc0000</color>
+</resources>

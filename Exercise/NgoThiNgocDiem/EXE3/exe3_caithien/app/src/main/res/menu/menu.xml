@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/fade_in"
+    android:title="Fade in"
+    android:orderInCategory="100"></item>
+
+    <item
+        android:id="@+id/slide_left"
+        android:title="Slide in left"
+        android:orderInCategory="100"></item>
+
+    <item
+        android:id="@+id/slide_up"
+        android:title="Slide in up"
+        android:orderInCategory="100"></item>
+
+    <item
+        android:id="@+id/shake"
+        android:title="Sharke"
+        android:orderInCategory="100"></item>
+
+    <item
+        android:id="@+id/scale"
+        android:title="Scale"
+        android:orderInCategory="100"></item>
+
+</menu>

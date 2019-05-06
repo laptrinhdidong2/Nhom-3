@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".BaoThuc_Theme">
+
+<!-- chia lam 3 phan: tieu de, phan than va phan footer chua cac tab cua ung dung dong ho-->
+    <!--day la phan dau chua tieu de va cac tuy chon-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <!--tao 1 text view chua tieu de ung dung-->
+        <TextView
+            android:id="@+id/lblten"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_ten"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            />
+        <!--tiep theo la noi chua cac tuy chon-->
+
+
+    </RelativeLayout>
+
+    <!--day la phan than chua cac list view item-->
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6">
+
+    </ListView>
+
+    <!--phan ket thuc chua cac tab tuy chon cua ung dung bao thuc-->
+
+
+
+</LinearLayout>

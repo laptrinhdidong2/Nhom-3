@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Apr 22 02:43:00 ICT 2019
+0.baseType=DIRECTORY
+0.base=E\:\\HK2_NAM_3\\LTDD2\\doan_Nhom\\ver_8_diem_thieuhenbt\\DoAnNhom\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

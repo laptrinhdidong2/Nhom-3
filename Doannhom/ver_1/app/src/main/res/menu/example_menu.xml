@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--thiet ke nut add (+)-->
+     <item android:id="@+id/add"
+         android:icon="@drawable/ic_add"
+         android:title="add"
+         app:showAsAction="ifRoom"></item>
+
+    <!--thiet ke nut more (3 cham)-->
+    <!--day la phan xoa-->
+    <item android:id="@+id/xoa"
+    android:title="Xoá"
+    app:showAsAction="never"></item>
+
+    <!--day la phan sap xep lich-->
+    <item android:id="@+id/sapxep"
+        android:title="Tuỳ chọn sắp xếp"
+        app:showAsAction="never"></item>
+
+    <!--day la phan cai dat-->
+    <item android:id="@+id/caidat"
+        android:title="Cài đặt"
+        app:showAsAction="never"></item>
+
+    <!--day la phan chinh sua cac tab-->
+    <item android:id="@+id/chinhsua"
+        android:title="Chỉnh sửa các tab"
+        app:showAsAction="never"></item>
+
+    <!--day la phan goi y va tro giup-->
+    <item android:id="@+id/help"
+        android:title="Gợi ý và trợ giúp"
+        app:showAsAction="never"></item>
+</menu>

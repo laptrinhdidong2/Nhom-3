@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/accelerate_interpolator" >
+
+    <!--hieu ung mo dan sang ro net-->
+    <alpha
+        android:fromAlpha="0"
+        android:toAlpha="1"
+        android:duration="1000" >
+    </alpha>
+
+    <!--hieu ung ro net sang mo dan-->
+    <alpha
+        android:startOffset="1000"
+        android:fromAlpha="1"
+        android:toAlpha="0"
+        android:duration="1000" >
+    </alpha>
+    <!--duration: thoi gian chuywn hieu ung-->
+</set>

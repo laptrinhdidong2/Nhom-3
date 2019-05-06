@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="pageBackground" format="reference"/>
+    <attr name="textColor" format="reference"/>
+    <attr name="listBackground" format="reference"/>
+</resources>

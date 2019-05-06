@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width">1dp</dimen>
+    <dimen name="rv_height">1dp</dimen>
+    <dimen name="margin_top">15dp</dimen>
+    <dimen name="padding_bot">10dp</dimen>
+    <dimen name="padding_top">10dp</dimen>
+    <dimen name="padding_left">6dp</dimen>
+
+    <dimen name="list_margin_bot">6dp</dimen>
+    <dimen name="list_margin_top">6dp</dimen>
+    <dimen name="list_corner_radius">18dp</dimen>
+    <dimen name="list_padding_bot">15dp</dimen>
+    <dimen name="list_padding_top">15dp</dimen>
+    <dimen name="list_padding_left">10dp</dimen>
+    <dimen name="list_text_size">18sp</dimen>
+</resources>

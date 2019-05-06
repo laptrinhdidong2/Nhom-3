@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--SIZE LICH THANG-->
+    <dimen name="activity_vertical_margin">50dp</dimen>
+    <dimen name="activity_horizontal_margin">50dp</dimen>
+    <dimen name="width_thu">50dp</dimen>
+    <dimen name="textsize_thu">20dp</dimen>
+    <dimen name="textsize_soduong">26dp</dimen>
+    <dimen name="textsize_soam">16dp</dimen>
+    <dimen name="padding_left_thu">5dp</dimen>
+    <dimen name="padding_right_thu">5dp</dimen>
+    <dimen name="bottom_khoangcach">20dp</dimen>
+
+    <dimen name="size_text_lbngayduong">40dp</dimen>
+    <dimen name="size_text_lbthu">25dp</dimen>
+    <dimen name="size_ngaythangnamcongiap">20dp</dimen>
+    <dimen name="margin_bottom_congiap">4dp</dimen>
+
+    <dimen name="size_mo_rong">50dp</dimen>
+    <!---->
+
+
+    <!--activity 3-->
+    <dimen name="layout_width_date">100dp</dimen>
+    <dimen name="textsize_ngayduong">35dp</dimen>
+    <dimen name="margin_left_thang">25dp</dimen>
+    <dimen name="margin_right_thang">25dp</dimen>
+    <dimen name="margin_label">5dp</dimen>
+    <dimen name="textsize_datelicham">20dp</dimen>
+</resources>

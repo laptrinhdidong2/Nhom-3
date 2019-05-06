@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/baseline_home_white_24dp"
+        android:title="Trang Chủ" />
+    <item
+        android:id="@+id/menu_lich_thang"
+        android:icon="@drawable/baseline_calendar_today_white_24dp"
+        android:title="@string/lich_thang" />
+    <item
+        android:id="@+id/menu_bao_thuc"
+        android:icon="@drawable/baseline_alarm_white_24dp"
+        android:title="@string/bao_thuc" />
+    <!--<item-->
+        <!--android:id="@+id/menu_bam_gio"-->
+        <!--android:icon="@drawable/baseline_timer_white_24dp"-->
+        <!--android:title="@string/bam_gio" />-->
+
+    <item
+        android:id="@+id/menu_chuyen_doi"
+        android:icon="@drawable/baseline_swap_vert_white_24dp"
+        android:title="@string/chuyen_doi" />
+
+    <item
+        android:id="@+id/menu_mo_rong"
+        android:icon="@drawable/baseline_reorder_white_24dp"
+        android:title="@string/mo_rong" />
+</menu>

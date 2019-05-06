@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0928361bf015138f13cd12bc1d4f65ac\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.Ibotta:Supported-Picker-Dialogs:1.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\Supported-Picker-Dialogs-1.0.0.aar\7caabee0e19641a8ed0d2ce1fa348d5e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1d3b5bcd8300ca3f3c4a4535982e2c62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1fe4b9b7bd2c5df00caafb828397c5ed\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\5b318d24458b5dd13461382c8b7896a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cfaf145956bbd647b1a6ba6e41247d92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e71553e98cec81fcdcf2d1db6851580c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\06caf6104034ad2f4661527c04c7df44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\81b2733c78f0a1d34d3324bccfada8b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c483925dd0772293ff229ff5c0e74bcf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ca915ce8af567431dbd2407100a43b6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\99fb6ab1c63b5646ef553037185568ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5ee7621f08a6fa84f326952a0370046f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8394287c28e8d63f1a1ff04433193ebd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\fe077147f55b36d678fc0bc3befccc19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3a83cf8476daa2386f000d029a79c858\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3eac260b59729d63495ce189bb48422f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\067c4fab2fcd224d0f569466f0c84dd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1a75e54e577c679ebcfe2c5959ec6434\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\86171562eba1205cb6988409d5c2c4d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c523f032609e100572c876980d7f8962\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c9c443027ea99f785a06068f30d24067\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c3dfe0ea9e59b52f8e0a68fdab60fb6b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ce5424caa1f656db93bc3cbecd33f6af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\31a68535d335ddb140dfcdac21c93e7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7c1abe1c99172f481aa42df8ed6b109b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1216ae85bcf8019a50dd9d8e822d9189\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2a55867d3b88eba4fcf02607f7728c30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\385db8cdeeaf0b3522b9b898eaa7be3d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3518b3faef65ac88f0de84a778e29403\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3d661de0a2ed6fe19743531d8e7e6a58\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\478d1fc76833037e415a99c267395a12\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:3:5-57
+		INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+		INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0928361bf015138f13cd12bc1d4f65ac\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0928361bf015138f13cd12bc1d4f65ac\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1fe4b9b7bd2c5df00caafb828397c5ed\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1fe4b9b7bd2c5df00caafb828397c5ed\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c523f032609e100572c876980d7f8962\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c523f032609e100572c876980d7f8962\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c9c443027ea99f785a06068f30d24067\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c9c443027ea99f785a06068f30d24067\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c523f032609e100572c876980d7f8962\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:9:9-54
+	android:largeHeap
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:7:9-42
+	android:allowBackup
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:12:9-59
+activity#com.example.administrator.doan_application.MainActivity
+ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:name
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:16:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.administrator.doan_application.ActivityLichThangAm
+ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:24:9-57
+	android:name
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:24:19-54
+activity#com.example.administrator.doan_application.BamGioActivity
+ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:25:9-52
+	android:name
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:25:19-49
+activity#com.example.administrator.doan_application.DemNguocActivity
+ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:26:9-53
+	android:name
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml:26:19-51
+uses-sdk
+INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0928361bf015138f13cd12bc1d4f65ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0928361bf015138f13cd12bc1d4f65ac\AndroidManifest.xml:20:5-44
+MERGED from [com.github.Ibotta:Supported-Picker-Dialogs:1.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\Supported-Picker-Dialogs-1.0.0.aar\7caabee0e19641a8ed0d2ce1fa348d5e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Ibotta:Supported-Picker-Dialogs:1.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\Supported-Picker-Dialogs-1.0.0.aar\7caabee0e19641a8ed0d2ce1fa348d5e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1d3b5bcd8300ca3f3c4a4535982e2c62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1d3b5bcd8300ca3f3c4a4535982e2c62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1fe4b9b7bd2c5df00caafb828397c5ed\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1fe4b9b7bd2c5df00caafb828397c5ed\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\5b318d24458b5dd13461382c8b7896a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\5b318d24458b5dd13461382c8b7896a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cfaf145956bbd647b1a6ba6e41247d92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cfaf145956bbd647b1a6ba6e41247d92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e71553e98cec81fcdcf2d1db6851580c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e71553e98cec81fcdcf2d1db6851580c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\06caf6104034ad2f4661527c04c7df44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\06caf6104034ad2f4661527c04c7df44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\81b2733c78f0a1d34d3324bccfada8b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\81b2733c78f0a1d34d3324bccfada8b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c483925dd0772293ff229ff5c0e74bcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c483925dd0772293ff229ff5c0e74bcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ca915ce8af567431dbd2407100a43b6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ca915ce8af567431dbd2407100a43b6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\99fb6ab1c63b5646ef553037185568ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\99fb6ab1c63b5646ef553037185568ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5ee7621f08a6fa84f326952a0370046f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5ee7621f08a6fa84f326952a0370046f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8394287c28e8d63f1a1ff04433193ebd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8394287c28e8d63f1a1ff04433193ebd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\fe077147f55b36d678fc0bc3befccc19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\fe077147f55b36d678fc0bc3befccc19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3a83cf8476daa2386f000d029a79c858\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3a83cf8476daa2386f000d029a79c858\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3eac260b59729d63495ce189bb48422f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3eac260b59729d63495ce189bb48422f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\067c4fab2fcd224d0f569466f0c84dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\067c4fab2fcd224d0f569466f0c84dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1a75e54e577c679ebcfe2c5959ec6434\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1a75e54e577c679ebcfe2c5959ec6434\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\86171562eba1205cb6988409d5c2c4d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\86171562eba1205cb6988409d5c2c4d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c523f032609e100572c876980d7f8962\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c523f032609e100572c876980d7f8962\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c9c443027ea99f785a06068f30d24067\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c9c443027ea99f785a06068f30d24067\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c3dfe0ea9e59b52f8e0a68fdab60fb6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c3dfe0ea9e59b52f8e0a68fdab60fb6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ce5424caa1f656db93bc3cbecd33f6af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ce5424caa1f656db93bc3cbecd33f6af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\31a68535d335ddb140dfcdac21c93e7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\31a68535d335ddb140dfcdac21c93e7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7c1abe1c99172f481aa42df8ed6b109b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7c1abe1c99172f481aa42df8ed6b109b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1216ae85bcf8019a50dd9d8e822d9189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1216ae85bcf8019a50dd9d8e822d9189\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2a55867d3b88eba4fcf02607f7728c30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2a55867d3b88eba4fcf02607f7728c30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\385db8cdeeaf0b3522b9b898eaa7be3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\385db8cdeeaf0b3522b9b898eaa7be3d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3518b3faef65ac88f0de84a778e29403\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3518b3faef65ac88f0de84a778e29403\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3d661de0a2ed6fe19743531d8e7e6a58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3d661de0a2ed6fe19743531d8e7e6a58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\478d1fc76833037e415a99c267395a12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NGOCDIEM\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\478d1fc76833037e415a99c267395a12\AndroidManifest.xml:20:5-44
+INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+		INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+		ADDED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml
+		INJECTED from E:\HK2_NAM_3\LTDD2\doan_Nhom\ver_5\DoAnNhom\DoAnNhom\app\src\main\AndroidManifest.xml

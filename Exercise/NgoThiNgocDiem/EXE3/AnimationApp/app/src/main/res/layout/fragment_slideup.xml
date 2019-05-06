@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/imgslideup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/slide" />
+
+    <Button
+        android:id="@+id/btnSlideup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:text="Start Animation"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/imgslideup"
+        android:layout_alignEnd="@+id/imgslideup" />
+
+</RelativeLayout>

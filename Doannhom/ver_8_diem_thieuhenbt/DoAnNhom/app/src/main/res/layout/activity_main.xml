@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+
+
+    <!--<DigitalClock-->
+        <!--android:id="@+id/digitalclock"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:textSize="70dp"-->
+        <!--android:layout_marginTop="30dp"-->
+        <!--android:textColor="@color/colorClock"/>-->
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:id="@+id/fragment_container"
+        android:layout_above="@id/bottom_menu"
+        >
+
+    </FrameLayout>
+
+    <android.support.design.widget.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="60sp"
+        app:menu="@menu/main_menu"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        app:itemBackground="@color/colorPrimary"
+        app:itemIconTint="@color/menu_item_colors"
+        app:itemTextColor="@color/menu_item_colors"
+        android:id="@+id/bottom_menu"
+        ></android.support.design.widget.BottomNavigationView>
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:background="#3FFF"-->
+        <!--android:paddingLeft="3dp"-->
+        <!--android:paddingRight="3dp"-->
+        <!--android:paddingBottom="5dp"-->
+        <!--android:paddingTop="5dp"-->
+        <!--android:weightSum="5"-->
+        <!--&gt;-->
+        <!--<TextView-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Lịch Tháng"-->
+            <!--android:drawableTop="@drawable/lichngay_trang"-->
+            <!--android:gravity="center"-->
+            <!--android:drawablePadding="8dp"-->
+            <!--android:textColor="#FFF"-->
+            <!--android:id="@+id/txtLichThang"-->
+            <!--android:singleLine="true"-->
+            <!--android:layout_weight="1"-->
+            <!--/>-->
+        <!--<TextView-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Báo Thức"-->
+            <!--android:drawableTop="@drawable/baothuc_trang"-->
+            <!--android:gravity="center"-->
+            <!--android:drawablePadding="8dp"-->
+            <!--android:textColor="#FFF"-->
+            <!--android:layout_toRightOf="@id/txtLichThang"-->
+            <!--android:id="@+id/txtBaoThuc"-->
+            <!--android:singleLine="true"-->
+            <!--android:layout_weight="1"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Bấm Giờ"-->
+            <!--android:drawableTop="@drawable/bamgio_trang"-->
+            <!--android:gravity="center"-->
+            <!--android:drawablePadding="8dp"-->
+            <!--android:textColor="#FFF"-->
+            <!--android:layout_toRightOf="@id/txtBaoThuc"-->
+            <!--android:id="@+id/txtBamGio"-->
+            <!--android:singleLine="true"-->
+            <!--android:layout_weight="1"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Đếm Ngược"-->
+            <!--android:drawableTop="@drawable/demnguoc_trang"-->
+            <!--android:gravity="center"-->
+            <!--android:drawablePadding="8dp"-->
+            <!--android:textColor="#FFF"-->
+            <!--android:layout_toRightOf="@id/txtBamGio"-->
+            <!--android:id="@+id/txtDemNguoc"-->
+            <!--android:singleLine="true"-->
+            <!--android:layout_weight="1"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Chuyển Đổi"-->
+            <!--android:drawableTop="@drawable/chuyendoi_trang"-->
+            <!--android:gravity="center"-->
+            <!--android:drawablePadding="8dp"-->
+            <!--android:textColor="#FFF"-->
+            <!--android:layout_toRightOf="@id/txtDemNguoc"-->
+            <!--android:id="@+id/txtChuyenDoi"-->
+            <!--android:singleLine="true"-->
+            <!--android:layout_weight="1"-->
+            <!--/>-->
+    <!--</LinearLayout>-->
+
+
+
+</RelativeLayout>

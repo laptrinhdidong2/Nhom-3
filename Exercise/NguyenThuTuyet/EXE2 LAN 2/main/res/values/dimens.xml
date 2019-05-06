@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height">100dp</dimen>
+
+    <dimen name="small_brush">10dp</dimen>
+    <integer name="small_size">10</integer>
+
+    <dimen name="medium_brush">20dp</dimen>
+    <integer name="medium_size">20</integer>
+
+    <dimen name="large_brush">30dp</dimen>
+    <integer name="large_size">30</integer>
+
+    <dimen name="paint_top">0dp</dimen>
+    <dimen name="paint_bot">0dp</dimen>
+    <dimen name="paint_left">0dp</dimen>
+    <dimen name="paint_right">0dp</dimen>
+    <dimen name="paint_width">4dp</dimen>
+    <dimen name="paint_radius">10dp</dimen>
+
+    <dimen name="layout_height">0dp</dimen>
+    <dimen name="mrg_top">3dp</dimen>
+    <dimen name="mrg_left">5dp</dimen>
+    <dimen name="mrg_right">5dp</dimen>
+    <dimen name="mrg_bot">3dp</dimen>
+
+    <dimen name="img_mrg">2dp</dimen>
+</resources>

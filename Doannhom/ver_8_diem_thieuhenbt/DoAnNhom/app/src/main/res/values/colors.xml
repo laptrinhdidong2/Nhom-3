@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorClock">#ef4447</color>
+    <color name="maudo">#FFFF0004</color>
+    <color name="mauxanhduong">#FF0213AE</color>
+    <color name="mauden">#000000</color>
+    <color name="mau_thu">#FFFF451C</color>
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteTransparent">#80FFFFFF</color>
+</resources>

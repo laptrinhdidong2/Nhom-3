@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/hinhnen8"
+    tools:context=".baothuc.ChuongBaoThucActivity">
+
+    <TextView
+        android:id="@+id/lbl_ring"
+        android:layout_marginTop="@dimen/mg_create_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/text_lbl_ring"
+        android:textColor="#fff"
+        android:textSize="@dimen/text_size_tieude"
+        android:layout_alignParentTop="true"
+        />
+    <ListView
+        android:id="@+id/lv_ring"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/btnTaochuong"
+        android:layout_below="@id/lbl_ring"
+        ></ListView>
+    <Button
+        android:id="@+id/btnTaochuong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/mg_create_top"
+        android:layout_alignParentBottom="true"
+        android:text="@string/text_btn_ring"
+        android:textSize="@dimen/text_size"
+        />
+
+
+</RelativeLayout>

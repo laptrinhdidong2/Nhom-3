@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Đồng hồ</string>
+
+    <!--xu ly phan giao dien 1-->
+    <string name="lbl_ten">Báo thức</string>
+    <string name="title_activity_tabbar_menu_theme">Tabbar Menu</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tabbar_menu">TabbarMenu</string>
+
+    <!--khai bao cho view_behavior-->
+    <string name="appbar_scrolling_view_behavior" />
+</resources>

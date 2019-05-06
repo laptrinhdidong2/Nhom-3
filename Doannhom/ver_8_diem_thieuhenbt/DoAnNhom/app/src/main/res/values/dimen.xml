@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_vertical_margin">50dp</dimen>
+    <dimen name="activity_horizontal_margin">50dp</dimen>
+    <dimen name="width_thu">50dp</dimen>
+    <dimen name="textsize_thu">20dp</dimen>
+    <dimen name="textsize_soduong">30dp</dimen>
+    <dimen name="textsize_soam">16dp</dimen>
+    <dimen name="padding_left_thu">5dp</dimen>
+    <dimen name="padding_right_thu">5dp</dimen>
+    <dimen name="bottom_khoangcach">20dp</dimen>
+
+    <!--activity 3-->
+    <dimen name="layout_width_date">100dp</dimen>
+    <dimen name="textsize_ngayduong">40dp</dimen>
+    <dimen name="margin_left_thang">25dp</dimen>
+    <dimen name="margin_right_thang">25dp</dimen>
+    <dimen name="margin_label">5dp</dimen>
+    <dimen name="textsize_datelicham">20dp</dimen>
+
+    <!--diem: -->
+        <!--man hinh chinh_bao thuc-->
+        <dimen name="mg_main_right">20dp</dimen>
+        <dimen name="mg_main_bottom">20dp</dimen>
+        <dimen name="mg_main_bottom_delete">80dp</dimen>
+
+        <!--taolich, xoa_baothuc-->
+        <dimen name="pd_create_bottom">16dp</dimen>
+        <dimen name="pd_create_left">16dp</dimen>
+        <dimen name="pd_create_right">16dp</dimen>
+        <dimen name="pd_create_top">16dp</dimen>
+
+        <!--tao chuong bao-->
+        <dimen name="mg_create_top">15dp</dimen>
+        <dimen name="mg_create_left">10dp</dimen>
+        <dimen name="mg_create_right">10dp</dimen>
+
+        <dimen name="text_size">20dp</dimen>
+        <dimen name="text_size_tieude">30dp</dimen>
+        <dimen name="text_size_ngay">22dp</dimen>
+
+        <!--hen gio-->
+        <dimen name="mg_hengio">15dp</dimen>
+        <dimen name="text_size_sogio">130dp</dimen>
+        <dimen name="text_size_hengio_ghichu">80dp</dimen>
+</resources>

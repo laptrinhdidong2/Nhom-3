@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_zoomin"
+            android:title="Zoom In" />
+        <item
+            android:id="@+id/nav_zoomout"
+            android:title="Zoom Out" />
+        <item
+            android:id="@+id/nav_rotate"
+            android:title="Rotate" />
+        <item
+            android:id="@+id/nav_move"
+            android:title="Move" />
+        <item
+            android:id="@+id/nav_bounce"
+            android:title="Bounce" />
+        <item
+            android:id="@+id/nav_Blink"
+            android:title="Blink" />
+        <item
+            android:id="@+id/nav_slideup"
+            android:title="Slide Up" />
+        <item
+            android:id="@+id/nav_slidedown"
+            android:title="Slide Down" />
+        <item
+            android:id="@+id/nav_fade"
+            android:title="Fade Animation" />
+        <item
+            android:id="@+id/nav_sequentialanimation"
+            android:title="Sequential Animation" />
+        <item
+            android:id="@+id/nav_togetheranimation"
+            android:title="Together Animation" />
+        <item
+            android:id="@+id/nav_flip"
+            android:title="Flip Animation" />
+        <item
+            android:id="@+id/nav_drawable"
+            android:title="Drawable Animation" />
+        <item
+            android:id="@+id/nav_swap"
+            android:title="Swap Animation"/>
+    </group>
+</menu>

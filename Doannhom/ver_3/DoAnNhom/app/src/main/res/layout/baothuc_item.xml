@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:weightSum="3"
+    android:gravity="center"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants"
+    android:id="@+id/parentLayoutBaoThucItem"
+    >
+    <!--Trong đó descendantFocusability="blocksDescendants": chỉ cho chọn trong vùng chọn item-->
+
+    <LinearLayout
+        android:id="@+id/giobt"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:background="@drawable/vien_baothuc"
+        >
+        <TextView
+            android:id="@+id/txt_giohen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_giobt"
+            android:textSize="@dimen/text_size_tieude"
+            android:textColor="#000"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/mota"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:weightSum="2"
+        >
+        <TextView
+            android:id="@+id/txt_mota"
+            android:textSize="@dimen/text_size"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ece9e9"
+            android:text="@string/text_mota"/>
+
+        <LinearLayout
+            android:id="@+id/ngay"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:weightSum="7"
+
+            >
+            <TextView
+                android:id="@+id/txt_chunhat"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_chunhat"/>
+
+            <TextView
+                android:id="@+id/txt_thuhai"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_thu2"/>
+
+            <TextView
+                android:id="@+id/txt_thuba"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_thu3"/>
+
+            <TextView
+                android:id="@+id/txt_thutu"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_thu4"/>
+
+            <TextView
+                android:id="@+id/txt_thunam"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_thu5"/>
+
+            <TextView
+                android:id="@+id/txt_thusau"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_thu6"/>
+
+            <TextView
+                android:id="@+id/txt_thubay"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_thu7"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- không xoá -->
+    <!--<LinearLayout
+        android:id="@+id/kiemtra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        >
+        <CheckBox
+            android:id="@+id/txt_check"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>--> <!-- không xoá -->
+
+
+</LinearLayout>

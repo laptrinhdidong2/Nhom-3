@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:weightSum="3"
+    android:layout_gravity="center"
+    android:background="@drawable/background1"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/giobt"
+        android:layout_marginLeft="12sp"
+        android:layout_marginRight="0sp"
+        android:layout_marginTop="20sp"
+        android:layout_marginBottom="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+
+        >
+        <Button
+            android:id="@+id/btn_giobt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="80:00 SA"
+            android:textSize="25sp"
+            android:textColor="#4d4949"
+        />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/mota"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="0sp"
+        android:layout_marginTop="20sp"
+        android:layout_marginBottom="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:weightSum="2"
+        >
+        <TextView
+            android:id="@+id/txtmota"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mô tả"/>
+
+        <LinearLayout
+            android:id="@+id/ngay"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:weightSum="7"
+
+            >
+            <TextView
+                android:id="@+id/txt_chunhat"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CN"/>
+
+            <TextView
+                android:id="@+id/txt_thu2"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="T2"/>
+
+            <TextView
+                android:id="@+id/txt_thu3"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="T3"/>
+
+            <TextView
+                android:id="@+id/txt_thu4"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="T4"/>
+
+            <TextView
+                android:id="@+id/txt_thu5"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="T5"/>
+
+            <TextView
+                android:id="@+id/txt_thu6"
+                android:textStyle="bold"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="T6"/>
+
+            <TextView
+                android:id="@+id/txt_thu7"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="T7"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/kiemtra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        >
+        <CheckBox
+            android:id="@+id/txt_check"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+</LinearLayout>
